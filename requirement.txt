@@ -4,4 +4,4 @@ pandas
 bs4
 scikit-learn
 pickle5
-PyPDF2
+PyPDF2==3.0.1
