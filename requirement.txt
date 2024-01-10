@@ -1,0 +1,7 @@
+nltk
+numpy
+pandas
+bs4
+scikit-learn
+pickle5
+PyPDF2
