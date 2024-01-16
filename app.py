@@ -1,7 +1,7 @@
 import streamlit as st
 import os
 from email_extraction import EmailData
-from model_training import DocumentPrediction,ContentPrediction
+from model_training import *
 # Function to login and store session state
 def login(email, password):
     try:
